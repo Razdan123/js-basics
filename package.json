@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  },
+  "name": "rohit",
+  "description": "vzvzv",
+  "version": "1.0.0",
+  "main": "hello.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Razdan123/js-basics.git"
+  },
+  "author": "dd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Razdan123/js-basics/issues"
+  },
+  "homepage": "https://github.com/Razdan123/js-basics#readme",
+  "keywords": [
+    "hh\\"
+  ]
+}
